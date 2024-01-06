@@ -1,7 +1,8 @@
 Hi 👋 My name is Paweł Furdyna
 ==============================
 Junior Automation Tester
-------------------------* 
+------------------------
+* 
 🌍  I'm based in Tarnobrzeg (Poland)
 
 ### Skills
