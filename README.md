@@ -36,3 +36,5 @@ I'm a passionate about coding, problem-solving, and continuous learning.
 <p align="center">
   <a href="http://www.github.com/pawelfurdyna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pawelfurdyna&stroke=ffffff&background=171717&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=pawelfurdyna)
