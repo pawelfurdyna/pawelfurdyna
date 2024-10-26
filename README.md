@@ -1,4 +1,4 @@
-My name is Paweł Furdyna
+Paweł Furdyna
 ==============================
 Automation Tester
 ------------------------
