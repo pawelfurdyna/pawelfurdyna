@@ -40,4 +40,6 @@ I'm a passionate about coding, problem-solving, and continuous learning.
   <a href="https://github.com/pawelfurdyna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawelfurdyna&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
+<a href="https://data.typeracer.com/pit/profile?user=glithor&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=glithor" border="0" alt="TypeRacer.com scorecard for user glithor"/></a>
+
 ![](https://komarev.com/ghpvc/?username=pawelfurdyna)
